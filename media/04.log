@@ -1,0 +1,227 @@
+No sentence-transformers model found with name allenai/specter2_base. Creating a new one with mean pooling.
+
+==========================================================================================
+Cемантичний пошук у Pinecone
+==========================================================================================
+
+1. Capturing knots in polymers
+Score: 0.8288
+Category: cond-mat.soft
+Year: 2007.0
+Abstract: This paper visualizes a knot reduction algorithm...
+
+2. Symbolic sensors : one solution to the numerical-symbolic interface
+Score: 0.8263
+Category: physics.ins-det
+Year: 2007.0
+Abstract: This paper introduces the concept of symbolic sensor as an extension of the
+smart sensor one. Then, the links between the physical world and the symbolic
+one are introduced. The creation of symbols is...
+
+3. The Mathematics
+Score: 0.8256
+Category: math.HO
+Year: 2007.0
+Abstract: This is an essay that considering the knowledge structure and language of a
+different nature, attempts to build on an explanation of the object of study
+and characteristics of the mathematical science...
+
+4. Modeling the field of laser welding melt pool by RBFNN
+Score: 0.8170
+Category: physics.comp-ph
+Year: 2007.0
+Abstract: Efficient control of a laser welding process requires the reliable prediction
+of process behavior. A statistical method of field modeling, based on
+normalized RBFNN, can be successfully used to predic...
+
+5. Why should anyone care about computing with anyons?
+Score: 0.8146
+Category: quant-ph
+Year: 2007.0
+Abstract: In this article we present a pedagogical introduction of the main ideas and
+recent advances in the area of topological quantum computation. We give an
+overview of the concept of anyons and their exoti...
+
+==========================================================================================
+Статті по reinforcement learning за останні 5 років і категорія cs.LG
+==========================================================================================
+
+==========================================================================================
+Більш старі статті (до 2015 року), будь-яка категорія
+==========================================================================================
+
+1. Multi-Agent Modeling Using Intelligent Agents in the Game of Lerpa
+Score: 0.8445
+Category: cs.MA
+Year: 2007.0
+Abstract: Game theory has many limitations implicit in its application. By utilizing
+multiagent modeling, it is possible to solve a number of problems that are
+unsolvable using traditional game theory. In this ...
+
+2. Introduction to Phase Transitions in Random Optimization Problems
+Score: 0.8194
+Category: cond-mat.stat-mech
+Year: 2007.0
+Abstract: Notes of the lectures delivered in Les Houches during the Summer School on
+Complex Systems (July 2006)....
+
+3. Architecture for Pseudo Acausal Evolvable Embedded Systems
+Score: 0.8102
+Category: cs.NE
+Year: 2007.0
+Abstract: Advances in semiconductor technology are contributing to the increasing
+complexity in the design of embedded systems. Architectures with novel
+techniques such as evolvable nature and autonomous behavi...
+
+4. Why only few are so successful ?
+Score: 0.8010
+Category: physics.pop-ph
+Year: 2007.0
+Abstract: In many professons employees are rewarded according to their relative
+performance. Corresponding economy can be modeled by taking $N$ independent
+agents who gain from the market with a rate which depe...
+
+5. Opinion Dynamics and Sociophysics
+Score: 0.7993
+Category: physics.soc-ph
+Year: 2007.0
+Abstract: No abstract given. Contents:
+  I. Definition and Introduction
+  II. Schelling Model
+  III. Opinion Dynamics
+  IV. Languages, Hierarchies and Football
+  V. Future Directions...
+
+Порівняння фільтрів:
+- У першому випадку результати обмежені категорією cs.LG та новішими статтями, тому видача більш сфокусована на сучасному machine learning.
+- У другому випадку обмеження тільки за роком, тому можуть зʼявлятися старіші роботи з різних категорій.
+
+==========================================================================================
+Локальний пошук: Cosine similarity
+==========================================================================================
+
+1. Capturing knots in polymers
+Score: 0.8294
+Category: cond-mat.soft
+Year: 2007
+Abstract: This paper visualizes a knot reduction algorithm...
+
+2. Symbolic sensors : one solution to the numerical-symbolic interface
+Score: 0.8260
+Category: physics.ins-det
+Year: 2007
+Abstract: This paper introduces the concept of symbolic sensor as an extension of the
+smart sensor one. Then, the links between the physical world and the symbolic
+one are introduced. The creation of symbols is...
+
+3. The Mathematics
+Score: 0.8254
+Category: math.HO
+Year: 2007
+Abstract: This is an essay that considering the knowledge structure and language of a
+different nature, attempts to build on an explanation of the object of study
+and characteristics of the mathematical science...
+
+4. Modeling the field of laser welding melt pool by RBFNN
+Score: 0.8181
+Category: physics.comp-ph
+Year: 2007
+Abstract: Efficient control of a laser welding process requires the reliable prediction
+of process behavior. A statistical method of field modeling, based on
+normalized RBFNN, can be successfully used to predic...
+
+5. Python for Education: Computational Methods for Nonlinear Systems
+Score: 0.8142
+Category: nlin.CD
+Year: 2007
+Abstract: We describe a novel, interdisciplinary, computational methods course that
+uses Python and associated numerical and visualization libraries to enable
+students to implement simulations for a number of d...
+
+==========================================================================================
+Локальний пошук: Dot product
+==========================================================================================
+
+1. Capturing knots in polymers
+Score: 0.8294
+Category: cond-mat.soft
+Year: 2007
+Abstract: This paper visualizes a knot reduction algorithm...
+
+2. Symbolic sensors : one solution to the numerical-symbolic interface
+Score: 0.8260
+Category: physics.ins-det
+Year: 2007
+Abstract: This paper introduces the concept of symbolic sensor as an extension of the
+smart sensor one. Then, the links between the physical world and the symbolic
+one are introduced. The creation of symbols is...
+
+3. The Mathematics
+Score: 0.8254
+Category: math.HO
+Year: 2007
+Abstract: This is an essay that considering the knowledge structure and language of a
+different nature, attempts to build on an explanation of the object of study
+and characteristics of the mathematical science...
+
+4. Modeling the field of laser welding melt pool by RBFNN
+Score: 0.8181
+Category: physics.comp-ph
+Year: 2007
+Abstract: Efficient control of a laser welding process requires the reliable prediction
+of process behavior. A statistical method of field modeling, based on
+normalized RBFNN, can be successfully used to predic...
+
+5. Python for Education: Computational Methods for Nonlinear Systems
+Score: 0.8142
+Category: nlin.CD
+Year: 2007
+Abstract: We describe a novel, interdisciplinary, computational methods course that
+uses Python and associated numerical and visualization libraries to enable
+students to implement simulations for a number of d...
+
+==========================================================================================
+Локальний пошук: L2-distance
+==========================================================================================
+
+1. Capturing knots in polymers
+Score: -0.5842
+Category: cond-mat.soft
+Year: 2007
+Abstract: This paper visualizes a knot reduction algorithm...
+
+2. Symbolic sensors : one solution to the numerical-symbolic interface
+Score: -0.5899
+Category: physics.ins-det
+Year: 2007
+Abstract: This paper introduces the concept of symbolic sensor as an extension of the
+smart sensor one. Then, the links between the physical world and the symbolic
+one are introduced. The creation of symbols is...
+
+3. The Mathematics
+Score: -0.5910
+Category: math.HO
+Year: 2007
+Abstract: This is an essay that considering the knowledge structure and language of a
+different nature, attempts to build on an explanation of the object of study
+and characteristics of the mathematical science...
+
+4. Modeling the field of laser welding melt pool by RBFNN
+Score: -0.6032
+Category: physics.comp-ph
+Year: 2007
+Abstract: Efficient control of a laser welding process requires the reliable prediction
+of process behavior. A statistical method of field modeling, based on
+normalized RBFNN, can be successfully used to predic...
+
+5. Python for Education: Computational Methods for Nonlinear Systems
+Score: -0.6095
+Category: nlin.CD
+Year: 2007
+Abstract: We describe a novel, interdisciplinary, computational methods course that
+uses Python and associated numerical and visualization libraries to enable
+students to implement simulations for a number of d...
+
+Порівняння метрик:
+- Оскільки ембеддинги нормалізовані, cosine similarity і dot product зазвичай дають однаковий або майже однаковий топ результатів.
+- L2-distance також часто дає схожі результати для нормалізованих векторів, але сортування йде навпаки: чим менша відстань, тим релевантніший результат.
