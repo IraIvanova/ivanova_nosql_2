@@ -219,8 +219,7 @@ def search_chunks(
                 title=metadata.get("title"),
                 category=metadata.get("category"),
                 year=metadata.get("year"),
-                abstract=metadata.get("chunk_text", ""),
-                extra=f"Chunk №{metadata.get('chunk_number')}"
+                abstract=metadata.get("chunk_text", "")
             )
 
             print("-" * 60)

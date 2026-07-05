@@ -1,3 +1,4 @@
+
 No sentence-transformers model found with name allenai/specter2_base. Creating a new one with mean pooling.
 Максимальна довжина анотації: 338 слів.
 
@@ -6,14 +7,14 @@ No sentence-transformers model found with name allenai/specter2_base. Creating a
 Обробка стратегії: fixed
 ==========================================================================================
 Кількість чанків: 227
-Upsert fixed: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 3/3 [00:27<00:00,  9.25s/it]
+Upsert fixed: 100%|██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 3/3 [00:30<00:00, 10.19s/it]
 
 ==========================================================================================
 
 Обробка стратегії: semantic
 ==========================================================================================
 Кількість чанків: 205
-Upsert semantic: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 3/3 [00:34<00:00, 11.60s/it]
+Upsert semantic: 100%|███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████| 3/3 [00:35<00:00, 11.72s/it]
 
 ==========================================================================================
 РЕЗУЛЬТАТИ ПОШУКУ ДЛЯ ЗАПИТУ: numerical algorithms and simulation methods
@@ -27,7 +28,6 @@ Score: 0.8322
 Category: astro-ph
 Year: 2007.0
 Abstract: modeled to closely fit the electron distribution functions observed in the auroral cavity. We systematically varied the model parameters as well as the propagation direction to study the dependence of...
-Chunk №None
 ------------------------------------------------------------
 
 2. NBODY meets stellar population - The HYDE-PARC Project
@@ -35,7 +35,6 @@ Score: 0.8231
 Category: astro-ph
 Year: 2007.0
 Abstract: the stellar evolution may also influence the dynamics of the system. Hence, if one is interested in simulating what the morphology will look like through a telescope, one needs to simulate in addition...
-Chunk №None
 ------------------------------------------------------------
 
 3. Spin Effects in Quantum Chromodynamics and Recurrence Lattices with
@@ -44,7 +43,6 @@ Score: 0.8206
 Category: cond-mat.stat-mech
 Year: 2007.0
 Abstract: In this thesis, we consider some spin effects in QCD and recurrence lattices with multi-site exchanges. Main topic of our manuscript are critical phenomena in spin systems defined on the recurrence la...
-Chunk №None
 ------------------------------------------------------------
 
 4. Spin Effects in Quantum Chromodynamics and Recurrence Lattices with
@@ -53,7 +51,6 @@ Score: 0.8194
 Category: cond-mat.stat-mech
 Year: 2007.0
 Abstract: recurrence lattices. Main tool of our approach is the method of recursive (hierarchical) lattices. We apply the method of dynamical mapping (or recursive lattices) for investigation of magnetic proper...
-Chunk №None
 ------------------------------------------------------------
 
 5. Conjectures on exact solution of three - dimensional (3D) simple orthorhombic Ising lattices
@@ -61,7 +58,6 @@ Score: 0.8153
 Category: cond-mat.stat-mech
 Year: 2007.0
 Abstract: . The cooperative phenomena near the critical point are studied and the results obtained based on the conjectures are compared with those of the approximation methods and the experimental findings...
-Chunk №7.0
 ------------------------------------------------------------
 
 --- Стратегія: SEMANTIC CHUNKS ---
@@ -72,7 +68,6 @@ Score: 0.8229
 Category: cond-mat.stat-mech
 Year: 2007.0
 Abstract: In this thesis, we consider some spin effects in QCD and recurrence lattices with multi-site exchanges. Main topic of our manuscript are critical phenomena in spin systems defined on the recurrence la...
-Chunk №None
 ------------------------------------------------------------
 
 2. Conjectures on exact solution of three - dimensional (3D) simple orthorhombic Ising lattices
@@ -80,7 +75,6 @@ Score: 0.8220
 Category: cond-mat.stat-mech
 Year: 2007.0
 Abstract: The cooperative phenomena near the critical point are studied and the results obtained based on the conjectures are compared with those of the approximation methods and the experimental findings....
-Chunk №None
 ------------------------------------------------------------
 
 3. NBODY meets stellar population - The HYDE-PARC Project
@@ -88,7 +82,6 @@ Score: 0.8209
 Category: astro-ph
 Year: 2007.0
 Abstract: Due to dynamical effects, such as energy equipartition, different masses of stars may populate different regions in the object. Since stars are evolving in mass the stellar evolution may also influenc...
-Chunk №None
 ------------------------------------------------------------
 
 4. Ages for illustrative field stars using gyrochronology: viability,
@@ -97,7 +90,6 @@ Score: 0.8177
 Category: astro-ph
 Year: 2007.0
 Abstract: We here develop an improved way of using a rotating star as a clock, set it using the Sun, and demonstrate that it keeps time well....
-Chunk №None
 ------------------------------------------------------------
 
 5. Ages for illustrative field stars using gyrochronology: viability,
@@ -106,7 +98,6 @@ Score: 0.8133
 Category: astro-ph
 Year: 2007.0
 Abstract: We delineate which stars it cannot currently be used on. We then calibrate the age dependence using the Sun. The errors are propagated to understand their dependence on color and period....
-Chunk №None
 ------------------------------------------------------------
 
 ==========================================================================================
@@ -121,7 +112,6 @@ Score: 0.8455
 Category: cond-mat.stat-mech
 Year: 2007.0
 Abstract: In this thesis, we consider some spin effects in QCD and recurrence lattices with multi-site exchanges. Main topic of our manuscript are critical phenomena in spin systems defined on the recurrence la...
-Chunk №None
 ------------------------------------------------------------
 
 2. Ages for illustrative field stars using gyrochronology: viability,
@@ -130,7 +120,6 @@ Score: 0.8403
 Category: astro-ph
 Year: 2007.0
 Abstract: stars it cannot currently be used on. We then calibrate the age dependence using the Sun. The errors are propagated to understand their dependence on color and period. Representative age errors associ...
-Chunk №None
 ------------------------------------------------------------
 
 3. Conjectures on exact solution of three - dimensional (3D) simple orthorhombic Ising lattices
@@ -138,7 +127,6 @@ Score: 0.8271
 Category: cond-mat.stat-mech
 Year: 2007.0
 Abstract: behavior and satisfying the scaling laws. The cooperative phenomena near the critical point are studied and the results obtained based on the conjectures are compared with those of the approximation m...
-Chunk №None
 ------------------------------------------------------------
 
 4. The Supernova Channel of Super-AGB Stars
@@ -146,7 +134,6 @@ Score: 0.8269
 Category: astro-ph
 Year: 2007.0
 Abstract: find for ECSNe a upper limit of ~20% of all supernovae (abridged)....
-Chunk №None
 ------------------------------------------------------------
 
 5. CIV 1549 as an Eigenvector 1 Parameter for Active Galactic Nuclei
@@ -156,7 +143,6 @@ Year: 2007.0
 Abstract: different and nonlinear offsets for population A and B sources. A significant
 number of sources also show narrow line CIV 1549 emission. We present a recipe
 for CIV 1549 narrow component extraction....
-Chunk №8.0
 ------------------------------------------------------------
 
 --- Стратегія: SEMANTIC CHUNKS ---
@@ -167,7 +153,6 @@ Score: 0.8414
 Category: cond-mat.stat-mech
 Year: 2007.0
 Abstract: In this thesis, we consider some spin effects in QCD and recurrence lattices with multi-site exchanges. Main topic of our manuscript are critical phenomena in spin systems defined on the recurrence la...
-Chunk №None
 ------------------------------------------------------------
 
 2. Ages for illustrative field stars using gyrochronology: viability,
@@ -176,7 +161,6 @@ Score: 0.8318
 Category: astro-ph
 Year: 2007.0
 Abstract: We delineate which stars it cannot currently be used on. We then calibrate the age dependence using the Sun. The errors are propagated to understand their dependence on color and period....
-Chunk №None
 ------------------------------------------------------------
 
 3. The Supernova Channel of Super-AGB Stars
@@ -184,7 +168,6 @@ Score: 0.8300
 Category: astro-ph
 Year: 2007.0
 Abstract: Our synthetic approach allows us to explore the uncertainty of this number imposed by uncertainties in the third dredge-up efficiency and ABG mass loss rate. We find for ECSNe a upper limit of ~20% of...
-Chunk №None
 ------------------------------------------------------------
 
 4. Conjectures on exact solution of three - dimensional (3D) simple orthorhombic Ising lattices
@@ -192,7 +175,6 @@ Score: 0.8242
 Category: cond-mat.stat-mech
 Year: 2007.0
 Abstract: The cooperative phenomena near the critical point are studied and the results obtained based on the conjectures are compared with those of the approximation methods and the experimental findings....
-Chunk №None
 ------------------------------------------------------------
 
 5. NBODY meets stellar population - The HYDE-PARC Project
@@ -200,7 +182,6 @@ Score: 0.8229
 Category: astro-ph
 Year: 2007.0
 Abstract: Due to dynamical effects, such as energy equipartition, different masses of stars may populate different regions in the object. Since stars are evolving in mass the stellar evolution may also influenc...
-Chunk №None
 ------------------------------------------------------------
 
 ==========================================================================================
@@ -216,7 +197,6 @@ Year: 2007.0
 Abstract: [Abridged] We have been exploring a spectroscopic unification for all known
 types of broad line emitting AGN. The 4D Eigenvector 1 (4DE1) parameter space
 shows promise as a unification capable of orga...
-Chunk №1.0
 ------------------------------------------------------------
 
 2. Spin Effects in Quantum Chromodynamics and Recurrence Lattices with
@@ -225,7 +205,6 @@ Score: 0.7661
 Category: cond-mat.stat-mech
 Year: 2007.0
 Abstract: recurrence lattices. Main tool of our approach is the method of recursive (hierarchical) lattices. We apply the method of dynamical mapping (or recursive lattices) for investigation of magnetic proper...
-Chunk №None
 ------------------------------------------------------------
 
 3. (Co)cyclic (co)homology of bialgebroids: An approach via (co)monads
@@ -235,7 +214,6 @@ Year: 2007.0
 Abstract: {\hat{\otimes}_S *+1} are isomorphic. As an application, we compute Hochschild
 and cyclic homology of a groupoid with coefficients, by tracing it back to the
 group case. In particular, we obtain expli...
-Chunk №7.0
 ------------------------------------------------------------
 
 4. CIV 1549 as an Eigenvector 1 Parameter for Active Galactic Nuclei
@@ -245,7 +223,6 @@ Year: 2007.0
 Abstract: different and nonlinear offsets for population A and B sources. A significant
 number of sources also show narrow line CIV 1549 emission. We present a recipe
 for CIV 1549 narrow component extraction....
-Chunk №8.0
 ------------------------------------------------------------
 
 5. Spin Effects in Quantum Chromodynamics and Recurrence Lattices with
@@ -254,7 +231,6 @@ Score: 0.7543
 Category: cond-mat.stat-mech
 Year: 2007.0
 Abstract: In this thesis, we consider some spin effects in QCD and recurrence lattices with multi-site exchanges. Main topic of our manuscript are critical phenomena in spin systems defined on the recurrence la...
-Chunk №None
 ------------------------------------------------------------
 
 --- Стратегія: SEMANTIC CHUNKS ---
@@ -264,7 +240,6 @@ Score: 0.7674
 Category: astro-ph
 Year: 2007.0
 Abstract: [Abridged] We have been exploring a spectroscopic unification for all known types of broad line emitting AGN. The 4D Eigenvector 1 (4DE1) parameter space shows promise as a unification capable of orga...
-Chunk №1.0
 ------------------------------------------------------------
 
 2. Spin Effects in Quantum Chromodynamics and Recurrence Lattices with
@@ -273,7 +248,6 @@ Score: 0.7623
 Category: cond-mat.stat-mech
 Year: 2007.0
 Abstract: In this thesis, we consider some spin effects in QCD and recurrence lattices with multi-site exchanges. Main topic of our manuscript are critical phenomena in spin systems defined on the recurrence la...
-Chunk №None
 ------------------------------------------------------------
 
 3. Spin Effects in Quantum Chromodynamics and Recurrence Lattices with
@@ -282,7 +256,6 @@ Score: 0.7561
 Category: cond-mat.stat-mech
 Year: 2007.0
 Abstract: We apply the method of dynamical mapping (or recursive lattices) for investigation of magnetic properties of the fluid and solid $^3$He, phase transitions in crystals and macromolecules....
-Chunk №None
 ------------------------------------------------------------
 
 4. CIV 1549 as an Eigenvector 1 Parameter for Active Galactic Nuclei
@@ -290,7 +263,6 @@ Score: 0.7537
 Category: astro-ph
 Year: 2007.0
 Abstract: A significant number of sources also show narrow line CIV 1549 emission. We present a recipe for CIV 1549 narrow component extraction....
-Chunk №7.0
 ------------------------------------------------------------
 
 5. NBODY meets stellar population - The HYDE-PARC Project
@@ -298,4 +270,3 @@ Score: 0.7530
 Category: astro-ph
 Year: 2007.0
 Abstract: Hence, if one is interested in simulating what the morphology will look like through a telescope, one needs to simulate in addition evolving stars and weight them by their luminosity....
-Chunk №None
